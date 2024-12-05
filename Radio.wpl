@@ -1,0 +1,26 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.4842"/>
+        <meta name="ItemCount" content="7"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>Radio</title>
+    </head>
+    <body>
+        <seq>
+            <media src="http://media-ice.musicradio.com/CapitalMP3"/>
+            <media src="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8"/>
+            <media src="http://s.aplus.fm/aplus_256"/>
+            <media src="https://cast.mediaonline.net.ua/avtoradio"/>
+            <media src="http://195.95.206.17/HitFM"/>
+            <media src="https://icecast.teveo.cu/zrXXWK9F"/>
+            <media src="http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2"/>
+            <media src="http://n07.rcs.revma.com/ks4vsmg3qtzuv"/>
+        </seq>
+    </body>
+</smil>
